@@ -79,7 +79,7 @@ body {
 
 .character_spritesheet {
     position: absolute;
-    background: url("148355173_3761814657269581_6337979030173641087_n.png") no-repeat no-repeat;
+    background: url("148666637_176155203942804_5336512123853254137_n.png") no-repeat no-repeat;
     background-size: 100%;
     width: calc( var(--grid-cell)* 8 );
     height: calc( var(--grid-cell)* 8 );
